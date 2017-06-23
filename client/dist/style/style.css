@@ -1,0 +1,8 @@
+.msg-display {
+  height: 300px;
+  overflow: scroll;
+}
+
+.msg-display .well {
+  height: 100%;
+}
